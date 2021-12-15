@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/happyhhh/static/css/main.31b6137c.chunk.css",
+    "main.js": "/happyhhh/static/js/main.f35dbf64.chunk.js",
+    "main.js.map": "/happyhhh/static/js/main.f35dbf64.chunk.js.map",
+    "runtime-main.js": "/happyhhh/static/js/runtime-main.d8a3a40c.js",
+    "runtime-main.js.map": "/happyhhh/static/js/runtime-main.d8a3a40c.js.map",
+    "static/js/2.78186614.chunk.js": "/happyhhh/static/js/2.78186614.chunk.js",
+    "static/js/2.78186614.chunk.js.map": "/happyhhh/static/js/2.78186614.chunk.js.map",
+    "index.html": "/happyhhh/index.html",
+    "precache-manifest.114e89d162bf979b3dd5ff888daa26e6.js": "/happyhhh/precache-manifest.114e89d162bf979b3dd5ff888daa26e6.js",
+    "service-worker.js": "/happyhhh/service-worker.js",
+    "static/css/main.31b6137c.chunk.css.map": "/happyhhh/static/css/main.31b6137c.chunk.css.map",
+    "static/js/2.78186614.chunk.js.LICENSE.txt": "/happyhhh/static/js/2.78186614.chunk.js.LICENSE.txt",
+    "static/media/AvenirNextLTPro-Demi.otf": "/happyhhh/static/media/AvenirNextLTPro-Demi.de28f71e.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8a3a40c.js",
+    "static/js/2.78186614.chunk.js",
+    "static/css/main.31b6137c.chunk.css",
+    "static/js/main.f35dbf64.chunk.js"
+  ]
+}
